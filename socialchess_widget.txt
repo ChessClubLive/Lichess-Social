@@ -1,1 +1,2 @@
-<script src="http://social.chessclublive.com?w=1350&h=2400"></script>
+<iframe name="ChessSocial" src="http://social.chessclublive.com" width="1350" height="2400" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto" class="frame-area">
+</iframe>  
